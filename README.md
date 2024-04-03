@@ -107,6 +107,7 @@ If you know of a minimal framework that hasn't been included here, please create
 * [lissom](https://github.com/lissomware/css) by @Looky1173 ([Preview](https://dohliam.github.io/dropin-minimal-css/?lissom) · [MIT](https://github.com/lissomware/css/blob/main/LICENSE.md))
 * [lit](https://github.com/Ajusa/lit) by @Ajusa ([Preview](https://dohliam.github.io/dropin-minimal-css/?lit) · [MIT](https://github.com/Ajusa/lit/blob/master/LICENSE))
 * [lotus](https://github.com/goatslacker/lotus.css) by @goatslacker ([Preview](https://dohliam.github.io/dropin-minimal-css/?lotus) · [MIT](https://github.com/goatslacker/lotus.css#license))
+* [magick](https://github.com/wintermute-cell/magick.css) by @wintermute-cell ([Preview](https://dohliam.github.io/dropin-minimal-css/?magick) · [MIT](https://github.com/wintermute-cell/magick.css/blob/master/LICENSE))
 * [markdown](https://github.com/mrcoles/markdown-css) by @mrcoles ([Preview](https://dohliam.github.io/dropin-minimal-css/?markdown) · [MIT](https://github.com/mrcoles/markdown-css/blob/master/license.txt))
 * [marx](https://github.com/mblode/marx) by @mblode ([Preview](https://dohliam.github.io/dropin-minimal-css/?marx) · [MIT](https://github.com/mblode/marx/blob/master/LICENSE.md))
 * [material](https://github.com/daemonite/material) by @daemonite ([Preview](https://dohliam.github.io/dropin-minimal-css/?material) · [MIT](https://github.com/Daemonite/material/blob/master/LICENSE))

@@ -348,6 +348,13 @@ frameworks:
     repo: https://github.com/goatslacker/lotus.css
     url: https://github.com/goatslacker/lotus.css/blob/gh-pages/dist/lotus.min.css
     min_only: true
+  magick:
+    author: wintermute-cell
+    author_name: Julius Kawatziklis
+    license: MIT
+    license_url: https://github.com/wintermute-cell/magick.css/blob/master/LICENSE
+    repo: https://github.com/wintermute-cell/magick.css
+    url: https://github.com/wintermute-cell/magick.css/blob/master/magick.css
   markdown:
     author: mrcoles
     author_name: Peter Coles
